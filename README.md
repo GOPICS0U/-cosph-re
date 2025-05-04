@@ -37,6 +37,7 @@ L'interface graphique vous permettra de :
 ## Structure du projet
 
 - `main.py` : Point d'entrée principal
+- `requirements.txt` : bibliothèques pour le jeu
 - `simulation/` : Modules de simulation
   - `world.py` : Gestion globale du monde
   - `geography.py` : Génération et gestion du terrain
